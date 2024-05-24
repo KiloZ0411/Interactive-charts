@@ -1,8 +1,8 @@
 # Interactive-charts
 这个仓库用来储存可视化图表。 This repository is used to store visual charts.
-## 这两个互动图表对近代中国报刊知识分子报刊中妇女概念的世界视角进行了折线图与散点图的可视化处理。
+## 这两个互动图表对近代中国报刊知识分子报刊中妇女概念的世界视角进行了折线图与散点图的可视化处理。 These two interactive charts have visualized the worldview of the concept of “Women”(Funv) in the newspapers and magazines of late Qing and early Republic by using broken line chart and scatter diagram.
 
-## 使用说明
+## 使用说明 Introduction
 
 1. **下载压缩文件：** 点击仓库中的 "Code" 按钮，选择 "Download ZIP" 以下载压缩文件。
 
@@ -10,7 +10,7 @@
 
 3. **打开图表：** 在解压后的文件夹中，找到 HTML 文件（1.时间、国别词、报刊与文章标题互动散点图.html；2.国别相关词时间变化图.html)，双击打开或者在浏览器中打开。
 
-4. **互动体验：** 在打开的网页中，您可以与互动图表进行交互。
+4. **互动体验：** 在打开的网页中，您可以通过点击时间、国别、报刊名等信息来与互动图表进行交互。
 
 ## 使用的 Python 包
 
